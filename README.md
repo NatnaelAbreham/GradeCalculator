@@ -7,11 +7,11 @@ If you got error when try to build the application you have to create a new andr
  
  Follow below step to open file
  
- gradecalculator->app -> src -> main -> res -> layout 
- gradecalculator->app -> src -> main -> res -> values -> string.xml
- gradecalculator->app -> src -> main -> java -> com ->  example -> gradecalculater
+ gradecalculator->app -> src -> main -> res -> layout.   
+ gradecalculator->app -> src -> main -> res -> values -> string.xml.  
+ gradecalculator->app -> src -> main -> java -> com ->  example -> gradecalculater.  
   
- This application calculate student grade GPA and CGPA
+ This application calculate student grade GPA and CGPA.  
 
  It has the following features
  Check each mark if mark above 100 or below 0. The program automatically generate error message
