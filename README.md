@@ -1,9 +1,9 @@
 # GradeCalculator
-This program built for android application.  
-To build or update this program first you have to install android studio.   
-This application support 4.4 and above android version.  
-Sometime you can get some error message can’t build,  gradle sync fail.  
-If you got error when try to build the application you have to create a new android java project and copy each java, layout and string file to the project. 
+This program built for android application.    
+To build or update this program first you have to install android studio.     
+This application support 4.4 and above android version.    
+Sometime you can get some error message can’t build,  gradle sync fail.    
+If you got error when try to build the application you have to create a new android java project and copy each java, layout and string file to the project.   
  
  Follow below step to open file.  
  
